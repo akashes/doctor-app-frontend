@@ -1,0 +1,13 @@
+.heading{
+    color: #033c73;
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-left: 3rem;
+}
+.main-img{
+    transition: transform .3s ease-in-out;
+}
+.main-img:hover{
+    transform: scale(1.01);
+
+}

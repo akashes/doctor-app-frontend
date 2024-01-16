@@ -1,0 +1,21 @@
+.footer-container>div{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    margin-left: 10px;
+   
+
+}
+.footer-container .first-container{
+    flex:2
+}
+.main-container{
+    background-color:#1eab95 ;
+
+    
+}
+.footer-header{
+    color: #033c73;
+    font-weight: bold;
+
+}

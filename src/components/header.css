@@ -1,0 +1,7 @@
+.nav{
+    color: #033c73;
+}
+
+.nav:hover{
+    border-bottom: 2px solid black;
+}

@@ -1,0 +1,9 @@
+.doc-card{
+    transition: all .3s ease-in-out;
+}
+
+.doc-card:hover{
+    transform: translate(5px,5px) scale(1.01);
+
+    border: 1px solid black;
+}
